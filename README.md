@@ -6,8 +6,8 @@
 - Github
 
 ## Achievements
-- Top rated Java Developer in Estonia 😂
-- Have not touched real Python 🐍, but getting close to unlocking Python language professional skills 
+- Have made several homepages from scratch 
+- Certifications in Python and Java
   
 ## Contact
 📱+372 5519583
@@ -16,7 +16,7 @@
 
 📜 [LinkedIn](https://www.linkedin.com/in/lilian-valge-203a35164/)
 
-## Some Examples of the Codes I've been working on
+## Some Examples of the Codes I've Been Working on
 
 ```java
 public class Main {
@@ -29,5 +29,25 @@ public class Main {
     } else if (season.equals("summer")) {
     System.out.println("Wear a t-shirt");   
 
+    }
+```
+
+```java
+
+public class Main {
+  public static void main(String[] args) {
+
+    boolean waitressRude = false; // Assuming waitress is not rude
+
+    // NOT
+    // conditions for going to the restaurant
+    // waitress must not be rude
+
+    boolean isWaitressRude = waitressRude;
+
+    if (!isWaitressRude) { // Checking if the waitress is not rude
+      System.out.println("Yes, I am coming to the restaurant");
+    } else {
+      System.out.println("No, I will skip this time");
     }
 ```
