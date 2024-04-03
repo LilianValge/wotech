@@ -1,17 +1,22 @@
-# Welcome to my repository
+# Welcome to My Repository
 
 ## Skills
 - Java
 - Python
 - Github
-- 
+
+## Achievements
+- Top rated Java Developer in Estonia 😂
+- Have not touched real Python 🐍, but getting close to unlocking Python language professional skills 
   
 ## Contact
 📱+372 5519583
 
 📩 lilian1valge@gmail.com
 
-## Favourite Part of Code
+📜 [LinkedIn](https://www.linkedin.com/in/lilian-valge-203a35164/)
+
+## Some Examples of the Codes I've been working on
 
 ```java
 public class Main {
